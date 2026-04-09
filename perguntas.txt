@@ -1,3 +1,29 @@
-1 pergunta: Quais as necessidades da equipe que não sao atendidas pelo Sistema Clickup?
-2 pergunta: Que tipo de dados são inseridos nestes indicadores?
-3 pergunta: Se voces sentem dificuldades em visualizar métricas e indicadores, qual a preferencia de voces quanto a visualizaçao dos indicadores? 
+1 - Como funciona hoje o processo de gestão de projetos e acompanhamento de indicadores de vocês, do início ao fim?
+
+2 - Quais ferramentas vocês usam atualmente além do ClickUp?
+
+3 - Em quais etapas do processo vocês mais dependem de planilhas ou outras atividades manuais e quais dessas tarefas vocês gostariam que fossem automatizadas? (IMPORTANTE)
+
+4 - Quais pessoas, áreas ou perfis de usuário mais utilizam essas informações e indicadores?
+
+5 - Quais são os indicadores mais importantes para vocês hoje?
+
+6 - Como esses indicadores são calculados atualmente?
+
+7 - De onde vêm os dados usados nesses indicadores, quem os atualiza e com que frequência eles são atualizados?
+
+8 - Como vocês gostariam de visualizar os dados e indicadores no dia a dia?
+Ex.: dashboards em tempo real, relatórios periódicos.
+
+9 - Quais filtros seriam importantes para analisar essas informações?
+Ex.: projeto, cliente, equipe, período, status.
+
+10 - Quais informações deveriam aparecer logo de cara em uma tela principal e de que forma vocês preferem que elas sejam apresentadas (por exemplo: gráficos, indicadores resumidos, tabelas ou outros formatos)?
+
+11 - Vocês utilizam os dados do ClickUp apenas dentro da ferramenta ou já tentaram extrair esses dados por API ou integração?
+
+12 - Existem diferentes perfis de usuários que precisariam apenas visualizar os dados ou também editar/modificar essas informações?
+
+13 - Qual funcionalidade faria mais diferença no dia a dia da equipe?
+
+14 - O que faria vocês considerarem que a solução proposta deu certo?
