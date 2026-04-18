@@ -1,2 +1,1 @@
-# perguntas
-Perguntas para empresa do trabalho de extensão
+# Esse é o repositório do projeto de extensão onde faremos um sistema para a E-Code
